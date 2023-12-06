@@ -6,7 +6,7 @@ import { faFacebook, faInstagram, faTwitter, faGithub, faLinkedin } from '@forta
 import resume from '../src/Sreyas_Official_Resume (1).pdf';
 import { Link } from 'react-router-dom';
 import "./Template1.scss";
-import { Phone } from '@material-ui/icons';
+
 
 const Template1 = ({ color, click, handleClick, name, description, about, address, phone, email, facebooklink, instagramlink, twitterlink, githublink, linkedinlink,  project1title, project1description, project1url, project2title, project2description, project2url  }) => {
   
